@@ -24,7 +24,9 @@ Open another terminal tab, and pwd to the the java source files. Compile and run
 
 # Scala
 
-Download SBT (build tool): ` brew isntall sbt ` 
+We are using casbah to drive mongodb: `https://github.com/mongodb/casbah`
+
+Download SBT (build tool): ` brew install sbt ` 
 <br>
 cd to `scala` directory where you will find `build.sbt`
 <br>
